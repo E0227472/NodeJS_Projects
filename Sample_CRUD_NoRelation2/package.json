@@ -22,7 +22,7 @@
     "@hapi/joi": "^15.0.3",
     "debug": "^4.1.1",
     "express": "^4.17.1",
-    "mongoose": "^5.0.7"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "babel-eslint": "^9.0.0",
